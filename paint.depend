@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1504422711 source:c:\users\ahmad\desktop\trial\paint\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+
+1517563097 source:f:\softwares\installed apps\my programs\programs\c++\completed\paint\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+
